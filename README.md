@@ -16,8 +16,7 @@
 ## 🧠 Current Skills (In Progress)
 - Networking Fundamentals (OSI Model, TCP/IP, Subnetting)  
 - Routing & Switching Basics  
-- Troubleshooting Connectivity Issues  
-- Basic CLI usage  
+- Troubleshooting Connectivity Issues    
 - Intro to Python  
 
 ---
