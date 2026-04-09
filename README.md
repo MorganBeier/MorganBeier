@@ -25,6 +25,8 @@
 - Network+ Labs (Packet Tracer)
 - Subnetting Practice Labs
 - Basic Python Scripts (network-related)
+  
+[View Project](https://github.com/MorganBeier/Small-Office-Network-Design-Packet-Tracer)
 
 *(Actively adding more as I progress)*  
 
